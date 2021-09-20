@@ -1,4 +1,4 @@
-import "regenerator-runtime/runtime";
+
 import {tmpl} from './template';
 export class BoundingBoxes extends HTMLElement {
     static get observedAttributes () {

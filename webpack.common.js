@@ -10,7 +10,7 @@ module.exports = {
     app: './src/bounding-boxes.js'
   },
   output: {
-    filename: '[name].[hash].js',
+    filename: 'bbw.js',
     path: path.resolve(__dirname, 'dist')
   },
   plugins: [
