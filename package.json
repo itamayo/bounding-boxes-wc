@@ -1,6 +1,6 @@
 {
   "name": "bounding-boxes-wc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "description": "Webcomponent with image bounding boxes displaying",
   "scripts": {
@@ -12,9 +12,11 @@
   },
   "keywords": [
     "Web Component",
-    "webpack",
-    "microphone",
-    "meter"
+    "native",
+    "bounding box",
+    "image",
+    "canvas"
+
   ],
   "author": "Iñigo Tamayo <itamayo@vicomtech.org>",
   "license": "(LGPL)",
