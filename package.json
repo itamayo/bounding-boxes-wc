@@ -1,6 +1,6 @@
 {
   "name": "bounding-boxes-wc",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "private": false,
   "description": "Webcomponent with image bounding boxes displaying",
   "scripts": {
