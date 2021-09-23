@@ -1,6 +1,6 @@
 {
   "name": "bounding-boxes-wc",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "private": false,
   "description": "Webcomponent with image bounding boxes displaying",
   "scripts": {
@@ -22,7 +22,7 @@
   "license": "(LGPL)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itamayo/bounding-boxes.git"
+    "url": "git+https://github.com/itamayo/bounding-boxes-wc.git"
   },
   "main": "src/bounding-boxes.js",
   "devDependencies": {
